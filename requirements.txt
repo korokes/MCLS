@@ -1,0 +1,6 @@
+python==3.6
+tqdm
+torch==1.7.0
+numpy
+termcolor
+sacremoses
