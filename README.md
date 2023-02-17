@@ -1,4 +1,4 @@
-# Assist Non-native Viewers: Multimodal CrossLingual Summarization for How2 Videos
+# Assist Non-native Viewers: Multimodal Cross-Lingual Summarization for How2 Videos
 Accepted at the EMNLP 2022
 
 ## Data Preparing
