@@ -32,7 +32,7 @@ VDF-TS-V
 ./run_scripts/VDF-TS-V.sh
 ```
 
-Alternatively, we also provide a well-trained first-stage model [[Baidu Netdisk, Passcode: rcqo]](https://pan.baidu.com/s/15AWUlc6I8kfwxSZ-MPrp0A) that you can choose to use directly to skip the first-stage training in the three-stage training framework.
+Alternatively, we also provide a well-trained first-stage model [[Baidu Netdisk, Passcode: rcqo]](https://pan.baidu.com/s/15AWUlc6I8kfwxSZ-MPrp0A) that you can choose to use directly to skip the first-stage training in the triple-stage training framework.
 
 ## Evaluation
 [nmtpytorch](https://github.com/srvk/how2-dataset) library is used to evaluate models, which includes BLEU (1, 2, 3, 4), ROUGE-L, METEOR, and CIDEr evaluation metrics. 
