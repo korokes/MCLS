@@ -53,9 +53,10 @@ We are very grateful that the code is based on [MFN](https://github.com/forkarin
   pages={6959--6969},
   year={2022}
 }
+
 @article{liu2024multimodal,
   title={Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method},
-  author={Li, Mingjie and Huang, Po-Yao and Chang, Xiaojun and Hu, Junjie and Yang, Yi and Hauptmann, Alex},
+  author={Liu, Nayu and Wei, Kaiwen and Yang, Yong and Tao, Jianhua and Sun, Xian and Yao, Fanglong and Yu, Hongfeng and Jin, Li and Lv, Zhao and Fan, Cunhang},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2022},
   note = {Early Access},
