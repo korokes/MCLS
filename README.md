@@ -17,31 +17,31 @@ After data preprocessing, you can run the following script commands to execute t
 VDF
 
 ```
-./run_scripts/VDF.sh
+bash run_scripts/VDF.sh
 ```
 
 VDF-TS-E
 
 ```
-./run_scripts/VDF-TS-E.sh
+bash run_scripts/VDF-TS-E.sh
 ```
 
 VDF-TS-V
 
 ```
-./run_scripts/VDF-TS-V.sh
+bash run_scripts/VDF-TS-V.sh
 ```
 
 VDF-TS-E2, using language-adaptive warping distillation (LAWD) to replace adaptive pooling distillation.
 
 ```
-./run_scripts/VDF-TS-E2.sh
+bash run_scripts/VDF-TS-E2.sh
 ```
 
 VDF-TS-V2, using LAWD to replace adaptive pooling distillation.
 
 ```
-./run_scripts/VDF-TS-V2.sh
+bash run_scripts/VDF-TS-V2.sh
 ```
 
 
