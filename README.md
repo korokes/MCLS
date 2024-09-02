@@ -45,6 +45,7 @@ In addition, [ROUGE](https://github.com/neural-dialogue-metrics/rouge) evaluatio
 We are very grateful that the code is based on [MFN](https://github.com/forkarinda/MFN), [nmtpytorch](https://github.com/srvk/how2-dataset), [fairseq](https://github.com/pytorch/fairseq), [machine-translation](https://github.com/tangbinh/machine-translation), and [Transformers](https://github.com/huggingface/transformers).
 
 ## Citation
+```
 @inproceedings{liu2022assist,
   title={Assist non-native viewers: Multimodal cross-lingual summarization for how2 videos},
   author={Liu, Nayu and Wei, Kaiwen and Sun, Xian and Yu, Hongfeng and Yao, Fanglong and Jin, Li and Zhi, Guo and Xu, Guangluan},
@@ -52,4 +53,4 @@ We are very grateful that the code is based on [MFN](https://github.com/forkarin
   pages={6959--6969},
   year={2022}
 }
-
+```
