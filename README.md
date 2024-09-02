@@ -53,7 +53,7 @@ As an alternative, [nlg-eval](https://github.com/Maluuba/nlg-eval) evaluation li
 In addition, [ROUGE](https://github.com/neural-dialogue-metrics/rouge) evaluation library is used to calculate the ROUGE (1, 2, L) score.
 
 ## Acknowledgement
-We are very grateful that the code is based on [MFN](https://github.com/forkarinda/MFN), [nmtpytorch](https://github.com/srvk/how2-dataset), [fairseq](https://github.com/pytorch/fairseq), [machine-translation](https://github.com/tangbinh/machine-translation), and [Transformers](https://github.com/huggingface/transformers).
+We are very grateful that the code is based on [MFN](https://github.com/forkarinda/MFN), [nmtpytorch](https://github.com/srvk/how2-dataset), [fairseq](https://github.com/pytorch/fairseq), [machine-translation](https://github.com/tangbinh/machine-translation), [pytorch-softdtw-cuda](https://github.com/Maghoumi/pytorch-softdtw-cuda), and [Transformers](https://github.com/huggingface/transformers).
 
 ## Citation
 ```
