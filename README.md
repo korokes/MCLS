@@ -1,6 +1,6 @@
-# Assist Non-native Viewers: Multimodal Cross-Lingual Summarization for How2 Videos
+## Assist Non-native Viewers: Multimodal Cross-Lingual Summarization for How2 Videos
 Accepted at the EMNLP 2022
-# Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method
+## Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method
 Accepted at the TPAMI 2024
 
 ## Data Preparing
