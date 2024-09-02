@@ -68,7 +68,7 @@ We are very grateful that the code is based on [MFN](https://github.com/forkarin
   title={Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method},
   author={Liu, Nayu and Wei, Kaiwen and Yang, Yong and Tao, Jianhua and Sun, Xian and Yao, Fanglong and Yu, Hongfeng and Jin, Li and Lv, Zhao and Fan, Cunhang},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
+  year={2024},
   note = {Early Access},
   publisher={IEEE}
 }
