@@ -12,7 +12,7 @@ python preprocess.py #Please modify the data storage path configuration.
  ```
 
 ## Training and Prediction
-You can run the following script commands to execute the training and prediction procedures of the proposed models, VDF, VDF-TS-E, and VDF-TS-V.
+You can run the following script commands to execute the training and prediction procedures of the proposed models.
 
 VDF
 
