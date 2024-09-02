@@ -1,5 +1,5 @@
 # Assist Non-native Viewers: Multimodal Cross-Lingual Summarization for How2 Videos
-The original conference version was accepted by EMNLP 2022, and the extended journal version has been accepted by TPAMI 2024.
+The original conference version was accepted by *EMNLP* 2022, and the extended journal version has been accepted by *TPAMI* 2024.
 
 ## Data Preparing
 The reorganized How2-MCLS text data can be downloaded from here [[Baidu Netdisk, Passcode: 6cd9]](https://pan.baidu.com/s/1Kj2F6N4dC_1qZ89QYvR_EA), as well as video features [[Baidu Netdisk, Passcode: eqqj]](https://pan.baidu.com/s/1JxkceABDIDkkP3SS3ejX5g) (derived from the original How2 dataset). The original How2 dataset for multimodal summarization is provided by [https://github.com/srvk/how2-dataset](https://github.com/srvk/how2-dataset).
