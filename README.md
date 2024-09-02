@@ -2,7 +2,7 @@
 The original conference version was accepted by *EMNLP 2022*, and the extended journal version has been accepted by *TPAMI*.
 
 ## Data Preparing
-The How2-MCLS text data can be downloaded from here [[Baidu Netdisk, Passcode: 6cd9]](https://pan.baidu.com/s/1Kj2F6N4dC_1qZ89QYvR_EA), as well as video features [[Baidu Netdisk, Passcode: eqqj]](https://pan.baidu.com/s/1JxkceABDIDkkP3SS3ejX5g) (derived from the original How2 dataset). The original How2 dataset for multimodal summarization is provided by [https://github.com/srvk/how2-dataset](https://github.com/srvk/how2-dataset).
+The reorganized How2-MCLS text data can be downloaded from here [[Baidu Netdisk, Passcode: 6cd9]](https://pan.baidu.com/s/1Kj2F6N4dC_1qZ89QYvR_EA), as well as video features [[Baidu Netdisk, Passcode: eqqj]](https://pan.baidu.com/s/1JxkceABDIDkkP3SS3ejX5g) (derived from the original How2 dataset). The original How2 dataset for multimodal summarization is provided by [https://github.com/srvk/how2-dataset](https://github.com/srvk/how2-dataset).
 
 ## Preprocessing
 Some demo data is placed in "data/demo_data" folder, and you can replace the demo data with the full How2-MCLS dataset, following the format of "data/demo_data" folder. Then run the following command to preprocess the data. This code takes the Pt2En scenario as an example for demonstration.
