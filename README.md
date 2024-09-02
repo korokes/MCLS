@@ -32,7 +32,18 @@ VDF-TS-V
 ./run_scripts/VDF-TS-V.sh
 ```
 
-Alternatively, we also provide a well-trained first-stage model [[Baidu Netdisk, Passcode: rcqo]](https://pan.baidu.com/s/15AWUlc6I8kfwxSZ-MPrp0A) that you can choose to use directly to skip the first-stage training in the triple-stage training framework.
+VDF-TS-E2 # use language-adaptive warping distillation (LAWD) to replace adaptive pooling distillation.
+
+```
+./run_scripts/VDF-TS-E2.sh
+```
+
+VDF-TS-V2 # use LAWD to replace adaptive pooling distillation.
+
+```
+./run_scripts/VDF-TS-V2.sh
+```
+
 
 ## Evaluation
 [nmtpytorch](https://github.com/srvk/how2-dataset) library is used to evaluate models, which includes BLEU (1, 2, 3, 4), ROUGE-L, METEOR, and CIDEr evaluation metrics. 
@@ -53,7 +64,6 @@ We are very grateful that the code is based on [MFN](https://github.com/forkarin
   pages={6959--6969},
   year={2022}
 }
-
 @article{liu2024multimodal,
   title={Multimodal Cross-lingual Summarization for Videos: A Revisit in Knowledge Distillation Induced Triple-stage Training Method},
   author={Liu, Nayu and Wei, Kaiwen and Yang, Yong and Tao, Jianhua and Sun, Xian and Yao, Fanglong and Yu, Hongfeng and Jin, Li and Lv, Zhao and Fan, Cunhang},
