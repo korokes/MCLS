@@ -1,6 +1,7 @@
-python==3.6
+python==3.9
 tqdm
-torch==1.7.0
+torch==1.12.1
 numpy
 termcolor
 sacremoses
+numba==0.57.0
