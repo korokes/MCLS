@@ -32,13 +32,13 @@ VDF-TS-V
 ./run_scripts/VDF-TS-V.sh
 ```
 
-VDF-TS-E2 # use language-adaptive warping distillation (LAWD) to replace adaptive pooling distillation.
+VDF-TS-E2 (Using language-adaptive warping distillation (LAWD) to replace adaptive pooling distillation.)
 
 ```
 ./run_scripts/VDF-TS-E2.sh
 ```
 
-VDF-TS-V2 # use LAWD to replace adaptive pooling distillation.
+VDF-TS-V2 (Using LAWD to replace adaptive pooling distillation.)
 
 ```
 ./run_scripts/VDF-TS-V2.sh
